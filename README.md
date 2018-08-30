@@ -1,5 +1,6 @@
 # my-first-blog
 2018.08.19 - 
+Configuration for http://BangYoon.pythonanywhere.com 
 
 #### Back-end Study
 - Django 
